@@ -153,7 +153,7 @@ After successful payment, the user must receive a booking confirmation with a un
 - Error Handling:
 If payment fails, the system must notify the user with a clear error message and allow retry.
 
-[alx-booking-uc.png](alx-booking-uc.png)
+![Use Case Diagram for Booking System](alx-booking-uc.png)
 
 <img width="300" height="300" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/fb51acf3-14cd-4e8d-a8a6-afaba6e27575" />
 

@@ -23,7 +23,7 @@ Ensuring the requirements are correct, complete, unambiguous, and agreed upon by
 ### Requirement Prioritization:
 Ranking requirements based on business value, urgency, cost, or risk.
 
-### Importance of Requirements Analysis in SDLC
+### Why is Requirement Analysis Important?
 - Provides a clear roadmap for developers and designers to build the system.
 - Clearly defined requirements prevent unnecessary features or changes later in the project.
 - Ensures all stakeholders have a shared understanding of the project's goals.

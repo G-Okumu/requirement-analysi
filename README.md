@@ -137,4 +137,18 @@ These define performance, reliability, and quality aspects essential for booking
   Services like search and booking must support high throughput and concurrent requests to maintain system performance under load.  
   *[Sources: Preparation Zone](https://www.preparationzone.com/design/pages/system_design_example/hotel_booking.html), [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-of-airbnb-hotel-reservation-system/)*
 
+# Acceptance Criteria.
+### Importance of Acceptance Criteria in Requirement Analysis
+<ul>
+  <li>Clear Definition</li>
+  <li>Enhances Communication</li>
+  <li>Prvents Scope Creep</li>
+</ul>
 
+### Example: Acceptance Criteria for Checkout Feature in Booking Management System
+- Successful Payment Processing:
+The system must process payments using supported payment methods (credit card, PayPal, wallet).
+- Booking Confirmation:
+After successful payment, the user must receive a booking confirmation with a unique booking ID.
+- Error Handling:
+If payment fails, the system must notify the user with a clear error message and allow retry.
